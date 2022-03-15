@@ -1,0 +1,29 @@
+.list-item {
+  display: flex;
+  margin: 10px;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+.logo-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 10px;
+  list-style-type: none;
+}
+.logo-title {
+  display: flex;
+  justify-content: flex-start;
+}
